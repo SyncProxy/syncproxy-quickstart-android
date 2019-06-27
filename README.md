@@ -48,7 +48,7 @@ Using AndroidStudio's tools, you can verify that the local SQLite database has b
 
 (see excellent detailed explanations of Matouš Skála on Medium: [https://medium.com/@mattyskala/browse-sqlite-database-in-android-studio-4fbba6cca105](https://medium.com/@mattyskala/browse-sqlite-database-in-android-studio-4fbba6cca105)).
 
-The saved SQLite database can be opened using SQLite tools like DB Browser for SQLite ([https://sqlitebrowser.org/](https://sqlitebrowser.org/))
+The saved SQLite database can be opened using SQLite tools like DB Browser for SQLite ([https://sqlitebrowser.org/](https://sqlitebrowser.org/)) or ExtendsClass ([https://extendsclass.com/sqlite-browser.html](https://extendsclass.com/sqlite-browser.html))
 
 
 ![dev tools](https://raw.githubusercontent.com/syncproxy/syncproxy-quickstart-android/master/dbbrowser-sqlite.png)
